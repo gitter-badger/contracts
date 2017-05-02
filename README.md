@@ -1,5 +1,7 @@
 # [0x Smart Contracts](https://0xProject.com)
 ---
+
+[![Join the chat at https://gitter.im/0xProject/contracts](https://badges.gitter.im/0xProject/contracts.svg)](https://gitter.im/0xProject/contracts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![0x](https://github.com/0xProject/0xProject.github.io/blob/master/img/logo/logo50.png)
 
 [![Slack Status](http://slack.0xProject.com/badge.svg)](http://slack.0xProject.com)
